@@ -23,3 +23,8 @@ A simple rule-based chatbot built using Python to simulate healthcare support in
 3. Run the notebook cells and start chatting!
 
 ## 🧠 Sample Interaction
+
+## 📌 Author
+Created by [Prem3791](https://github.com/Prem3791)
+
+
