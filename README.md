@@ -19,3 +19,7 @@ A simple rule-based chatbot built using Python to simulate healthcare support in
 
 ## 📦 How to Run
 1. Clone the repository:
+2. Open the `.ipynb` file in Jupyter Notebook or VS Code (with Python extension).
+3. Run the notebook cells and start chatting!
+
+## 🧠 Sample Interaction
